@@ -1,6 +1,8 @@
 # Session 1
 These scripts provide examples of the concepts explored during the first Python programming session.
 
+I HAVE BROKEN IT
+
 ## Hello World
 * `01_basic.py` is the simplest form of a Python hello world script.
 * `02_var_example.py` expands on the first example to include a variable.
